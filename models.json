@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "base_model": "SDXL",
+            "name": "AlbedoBaseXL"
+        },
+        {
+            "base_model": "SD 1.5",
+            "name": "Cyber Realistic"
+        },
+        {
+            "base_model": "SD 1.5",
+            "name": "Cyber Realistic"
+        },
+        {
+            "base_model": "SD 1.5",
+            "name": "Dreamshaper"
+        },
+        {
+            "base_model": "SDXL",
+            "name": "EpicRealismXL"
+        },
+        {
+            "base_model": "flux",
+            "name": "Flux"
+        },
+        {
+            "base_model": "SDXL",
+            "name": "JuggernautXL"
+        },
+        {
+            "base_model": "SD 1.5",
+            "name": "NextPhoto"
+        },
+        {
+            "base_model": "SD 1.5",
+            "name": "nextphoto_v30nextphoto_v30.safetensors [1c1f913f3b]"
+        }
+    ],
+    "err": {},
+    "pagination": {
+        "page": 1,
+        "page_size": 10,
+        "total": 9
+    }
+}
